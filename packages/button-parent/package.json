@@ -1,6 +1,6 @@
 {
   "name": "@daidev/button-parent",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "daituzhang <daituzhang@gmail.com>",
@@ -8,7 +8,8 @@
   "license": "ISC",
   "main": "dist/button-parent.cjs.js",
   "module": "dist/button-parent.esm.js",
-  "src": "lib/button-parent.js",  "directories": {
+  "src": "lib/button-parent.js",
+  "directories": {
     "lib": "lib",
     "test": "__tests__"
   },
@@ -30,10 +31,10 @@
     "url": "https://github.com/daituzhang/lerna-cl/issues"
   },
   "dependencies": {
-    "@daidev/button": "^0.0.0"
+    "@daidev/button": "^0.0.1"
   },
   "devDependencies": {
-    "@daidev/builder": "^0.0.0",
+    "@daidev/builder": "^0.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
