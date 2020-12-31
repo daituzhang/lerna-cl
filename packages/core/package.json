@@ -1,0 +1,39 @@
+{
+  "name": "@daidev/core",
+  "version": "0.0.0",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "daituzhang <daituzhang@gmail.com>",
+  "homepage": "https://github.com/daituzhang/lerna-cl/tree/master/packages/core#readme",
+  "license": "ISC",
+  "main": "dist/core.cjs.js",
+  "module": "dist/core.esm.js",
+  "src": "lib/core.js",  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist",
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daituzhang/lerna-cl.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/daituzhang/lerna-cl/issues"
+  },
+  "dependencies": {
+    "@daidev/button": "^0.0.0",
+    "@daidev/button-parent": "^0.0.0"
+  },
+  "devDependencies": {
+    "@daidev/builder": "^0.0.0"
+  }
+}
