@@ -1,6 +1,6 @@
 {
   "name": "@daidev/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "daituzhang <daituzhang@gmail.com>",
@@ -31,11 +31,11 @@
     "url": "https://github.com/daituzhang/lerna-cl/issues"
   },
   "dependencies": {
-    "@daidev/button": "^0.0.3",
-    "@daidev/button-parent": "^0.0.3"
+    "@daidev/button": "^0.0.4",
+    "@daidev/button-parent": "^0.0.4"
   },
   "devDependencies": {
-    "@daidev/builder": "^0.0.3"
+    "@daidev/builder": "^0.0.4"
   },
   "gitHead": "ea32631c9e0b97523f2e622d78b8ec873ebcc1b0"
 }
