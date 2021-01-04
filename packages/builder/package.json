@@ -39,5 +39,6 @@
     "@rollup/plugin-babel": "^5.2.2",
     "@rollup/plugin-node-resolve": "^11.0.1",
     "rollup": "^2.35.1"
-  }
+  },
+  "gitHead": "24f9ba72e8a055d7abb32d2a45f4168a57e03c1c"
 }
