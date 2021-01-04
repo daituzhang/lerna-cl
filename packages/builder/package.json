@@ -1,6 +1,6 @@
 {
   "name": "@daidev/builder",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "daituzhang <daituzhang@gmail.com>",
@@ -40,5 +40,5 @@
     "@rollup/plugin-node-resolve": "^11.0.1",
     "rollup": "^2.35.1"
   },
-  "gitHead": "24f9ba72e8a055d7abb32d2a45f4168a57e03c1c"
+  "gitHead": "ea32631c9e0b97523f2e622d78b8ec873ebcc1b0"
 }
